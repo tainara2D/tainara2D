@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 💙
 
-meu nome é Tainara Souza
+Meu nome é Tainara Souza
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
