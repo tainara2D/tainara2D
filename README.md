@@ -10,6 +10,6 @@ Meu nome é Tainara Souza
 
 000010896050SP@aluno.educacao.sp.gov.br
 
-@tai_souza.thv
+@tay_souza.thv
 
 ![](https://media.tenor.com/fpTPMWRwUcIAAAAM/bts-ok.gif)
